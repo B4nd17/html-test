@@ -1,3 +1,3 @@
 # html-test
 
-Practicing HTML and eventually CSS using VSCode and Live Server extension
+Practicing HTML and CSS using VSCode and Live Server extension
