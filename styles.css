@@ -1,7 +1,17 @@
-div {
-    color: white;
-    background-color: black;
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    color: black;
 }
-p { 
-    color: red
+
+div {
+    font: center;
+    background-color: rosybrown;
+    border: 10px solid purple;
+    margin: 10px;
+    padding: 15px;
+    width: 45px;
+    height: 30px;
+    box-align: center;
 }
