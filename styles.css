@@ -1,17 +1,14 @@
 * {
-    padding: 0;
-    margin: 0;
     font-size: 100%;
-    color: black;
-}
+  }
 
-div {
-    font: center;
-    background-color: rosybrown;
-    border: 10px solid purple;
-    margin: 10px;
-    padding: 15px;
-    width: 45px;
-    height: 30px;
-    box-align: center;
-}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
